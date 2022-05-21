@@ -1,1 +1,1 @@
-# learn-ethereum
+# This better be fucking worth it
